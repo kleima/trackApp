@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Emotion Buzzer</string>
+    <string name="button_ok">😐</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_bad">🙁</string>
+    <string name="button_good">🙂</string>
+</resources>
